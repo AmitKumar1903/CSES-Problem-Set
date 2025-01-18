@@ -35,6 +35,7 @@
  * - For other values of n, the solution involves printing even numbers first, followed by odd numbers to ensure the 
  *   difference between adjacent elements is not 1.
  */
+// Solution:
 import java.util.*;
 public class Permutations{
     public static void main(String [] args){
